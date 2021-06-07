@@ -1,0 +1,35 @@
+.imgenhaut {
+     margin: 20px;
+     flex-wrap: nowrap;
+     width: 100%;
+    height: auto;
+    }
+ 
+.myrow1 {
+     border: 1px solid black;
+     display: flex;
+     flex-wrap: nowrap;
+    }
+ 
+.word {
+     width: 80%;
+     font-size: 100%;
+    }
+
+.card-img-top {
+    height: auto;
+    }
+
+.container-image {
+  width:100%;
+  height:100%;
+}
+
+.img-thumbnail {
+  width:100%;
+  height:100%;
+
+}
+
+
+
